@@ -5,6 +5,7 @@
 
 .formTitle{
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .MuiFormControl-root {
