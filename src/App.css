@@ -1,0 +1,14 @@
+body{
+    background-color: #3f50b5;
+}
+
+.App{
+    background-color: #fff;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
